@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Settlers of Catan Score Keeper</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+    <string name="victory_points">Victory Points</string>
+
+    <string name="button_settlement">Build Settlement</string>
+    <string name="button_city">Build City</string>
+    <string name="button_development_card">Development Card</string>
+    <string name="reset_button">Reset</string>
+    <string name="longest_road_button">Longest Road</string>
+    <string name="button_largest_army">Largest Army</string>
+</resources>
